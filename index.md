@@ -11,7 +11,7 @@ Las sesiones serán relizadas en modalidad sincronica atraves de la plataforma z
 - Sábado 17 de julio,  de 08:30 a 11:10
 
 
-Para ingresar a la sesión del día has click [AQUI](https://zoom.us/j/96437011585?pwd=VGpSc2R1MXpWMHFnRjJ6YTBCL2xGUT09)
+Para ingresar a la sesión del día has click [AQUI](https://zoom.us/j/95674430653?pwd=RkloR0ZhTXd0WlBXTVlJU3VscmhWQT09)
 
 
 ### Contenidos

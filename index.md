@@ -20,7 +20,7 @@ Las sesiones serán relizadas en modalidad sincronica atraves de la plataforma z
 - Sábado 10 de julio,  de 08:30 a 11:45 
 - Sábado 17 de julio,  de 08:30 a 11:10
 
-- Sábado 24 de julio,  de 9:30  a 12:00. (Sesión adicional)
+- Sábado 24 de julio,  de 9:30  a 12:00. (Sesión adicional: Preguntas y STATA)
 
 Para ingresar a la sesión del día has click [AQUI](https://zoom.us/j/98203647470?pwd=OHFvL0R4RklHbi9IWFpRbmtRcmh3Zz09)
 

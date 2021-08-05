@@ -1,14 +1,16 @@
 
 > Esta no es una página oficial de la Universidad Catolica San Pablo, sede La Paz. Todos los contenidos son de responsabilidad exclusiva del autor de la página.
 
-# Examen: Domingo 1 de agosto, 17:00 hrs. Link para el examen [AQUI](https://forms.gle/Dgfr4wAweUjH1sN99)
+## Examen: Domingo 1 de agosto, 17:00h  Link para el examen [AQUI](https://forms.gle/Dgfr4wAweUjH1sN99)
+> El link quedará habilitado una vez que se corrobore que todos los estudiantes cumplen con las condiciones indicadas a continuación para rendir el examen.
+
   * El examen tendrá una duración de 90min.
   * El examen se lo realizará con control simultaneo: Camara encendida y pantalla compartida.
   * Para el examen, deberá encontrarse en un area aislada y con NINGUN objeto (otra mesa, estante, etc) en un radio de 2mts.
   
-# La entrega del proyecto de curso deberá realizasela hasta las 11:59h. del Lunes 2 de agosto.
+## La entrega del proyecto de curso debe ser realizada hasta las 11:59h del Lunes 2 de agosto.
   * Para la entrega de la tarea, sigue el siguiente [LINK](https://forms.gle/2ouGE9aP8s3bjnhq5)
-  - recuerda que debe entregarse tanto el documento como el do-file/script/etc . 
+  - Recuerda que debe entregarse tanto el documento como el do-file/script/etc . 
 ### Las sesiones 
 Las sesiones serán relizadas en modalidad sincronica atraves de la plataforma zoom:
 
@@ -34,7 +36,7 @@ Descarga datos de comercio [AQUI](https://mega.nz/folder/5JskmBBS#cXVRBAYZ4kRU2v
 ### Contenidos
 Para descargar los contenidos del curso has click [AQUI](https://mega.nz/file/sZsxwKZb#9yzDrchEJe9aOup7--U7ab9cL3nZaBG1ScfG4wLkBuM)
 
-## Proyecto de curso
+### Proyecto de curso
 Para descargar las instrucciones de la tarea has click [AQUI](https://mega.nz/file/Md8FAK6Y#MNYrlyZGbZsOSQOkjLi9OyWHGbbDhbNCmmxZj4NLoi4)
 
 ### Bibliografía
